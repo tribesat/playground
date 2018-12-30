@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tribesat/playground#readme",
   "devDependencies": {
-    "serve": "^5.2.1"
+    "serve": ">=7.0.0"
   }
 }
